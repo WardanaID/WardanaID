@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there
+
+- 🔧 I'm an IT Support specializing in networking and PHP development  
+- 💼 Currently working on a pharmacy POS system  
+- 🧪 Learning Python automation & IoT cloud recognition  
+- 🌐 Visit my website: https://wardanaid.my.id
+
+## 🔥 GitHub Stats
+![Agung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WardanaID&show_icons=true)
+
 
 <!--
 **WardanaID/WardanaID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
